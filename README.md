@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @durgavarapraveen
 - 👀 I’m interested in Web Devolpment
-- 🌱 I’m currently learning Data Structures and Algorithm
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me durgavarapraveen@gmail.com
 
