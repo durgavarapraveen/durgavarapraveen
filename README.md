@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://i.imgur.com/kqXcpn5.gif" >
 </p>
-<h1 align="center">Hi 👋, I'm <a href='https://6472131acecdad04d3d48b6b--calm-ganache-4bd540.netlify.app/'>Praveen</a>!</h1>
+<h1 align="center">Hi 👋, I'm <a href='https://656fedf21df8201fe575e174--glittery-manatee-e86f19.netlify.app/'>Praveen</a>!</h1>
 <h3 align="center">>Welcome to my GitHub profile</h3>
 <p>i am a full-stack developer with a passion for crafting innovative solutions. Currently honing my skills at IIT Jodhpur , I thrive on the challenges of creating robust applications from front-end to back-end. My journey involves exploring diverse technologies and pushing boundaries to build seamless digital experiences.</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgavarapraveen" alt="durgavarapraveen" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a style="text-decoration: none" href="https://github.com/ryo-ma/github-profile-trophy">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a style="text-decoration: none" href="https://656fedf21df8201fe575e174--glittery-manatee-e86f19.netlify.app/">Portfolio</a>
 
 - 📫 How to reach me **durgavarapraveen@gmail.com**
 
